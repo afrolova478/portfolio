@@ -1,0 +1,14 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 20, 2025, 5:55:37 PM
+    Author     : afrolova8
+*/
+
+body {font-family: "Lato", sans-serif;
+      background-image: url('..images/background-black.jpg');
+      background-size: cover;
+}
+.mySlides {display: none}
